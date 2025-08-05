@@ -1,0 +1,54 @@
+{
+  "exp_years": 9,
+  "language": "0",
+  "education": [
+    {
+      "degree": "M.S",
+      "field": "Electrical and Computer Engineering",
+      "institution": "Purdue University",
+      "graduation_date": "Dec. 2013",
+      "gpa": "3.9/4.0"
+    },
+    {
+      "degree": "B.S",
+      "field": "Electrical and Computer Engineering",
+      "institution": "Purdue University",
+      "graduation_date": "Dec. 2011",
+      "gpa": "3.2/4.0"
+    }
+  ],
+  "prof_skill_advanced": [
+    "C/C++",
+    "Python",
+    "Java",
+    "Matlab",
+    "LabView",
+    "SQL",
+    "SAS",
+    "SPSS"
+  ],
+  "prof_skill_basic": [
+    "Microsoft Office",
+    "Ansoft Designer",
+    "AWR Microwave Office",
+    "SPICE",
+    "NI Multisim",
+    "Eagle",
+    "PCB Artist"
+  ],
+  "soft_skill": [
+    "Team leader",
+    "Self-starter",
+    "Attention to detail",
+    "Innovation"
+  ],
+  "certs": "0",
+  "achievements": [
+    "GPA: 3.9/4.0 in M.S",
+    "GPA: 3.2/4.0 in B.S"
+  ],
+  "relevant_projects": [
+    "Design and Evaluation of a 5.8 GHz Laptop-Based Radar System"
+  ],
+  "activities": "0"
+}

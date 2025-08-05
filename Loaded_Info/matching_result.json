@@ -1,0 +1,45 @@
+{
+  "scores": {
+    "exp_years": {
+      "score": 80,
+      "justification": "The candidate has 9 years of experience, which is substantial and aligns well with the requirement for an experienced Software Architect."
+    },
+    "prof_skill_advanced": {
+      "score": 70,
+      "justification": "The candidate has advanced skills in Java, Python, and C++, which are relevant to the JD, but lacks specific experience in cloud computing and microservices."
+    },
+    "soft_skill": {
+      "score": 75,
+      "justification": "The candidate demonstrates strong soft skills such as leadership and attention to detail, which are essential for guiding development teams."
+    },
+    "education": {
+      "score": 90,
+      "justification": "The candidate holds a Master's degree in Electrical and Computer Engineering, which is closely related to the Computer Science requirement in the JD."
+    },
+    "prof_skill_basic": {
+      "score": 60,
+      "justification": "The candidate possesses basic skills relevant to software development, but the JD emphasizes more on advanced skills and practices."
+    },
+    "achievements": {
+      "score": 70,
+      "justification": "The candidate has notable academic achievements, including a high GPA in their Master's program, which reflects strong academic performance."
+    },
+    "relevant_projects": {
+      "score": 50,
+      "justification": "The project experience mentioned is somewhat relevant but does not directly align with software architecture responsibilities outlined in the JD."
+    },
+    "certs": {
+      "score": 0,
+      "justification": "The candidate has no certifications, which may be a disadvantage given the technical nature of the role."
+    },
+    "language": {
+      "score": 100,
+      "justification": "The JD does not specify any language requirements, so the default score is applied."
+    },
+    "activities": {
+      "score": 0,
+      "justification": "The candidate has no extracurricular activities listed, which may indicate a lack of engagement outside of academic and professional work."
+    }
+  },
+  "final_matching_score": 66.5
+}

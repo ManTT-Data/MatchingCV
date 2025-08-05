@@ -1,0 +1,15 @@
+Description:
+We are seeking an experienced Software Architect to design and oversee scalable, high-performance software solutions. You will define system architecture, ensure best practices, and collaborate with development teams to deliver efficient, secure, and maintainable applications.
+
+Responsibilities:
+Design and implement robust software architectures.
+Guide development teams in best coding and design practices.
+Ensure scalability, security, and performance of applications.
+Conduct architectural reviews and optimize system workflows.
+Stay updated with emerging technologies and industry trends.
+Qualifications:
+Bachelor's/Master�s degree in Computer Science or related field.
+Strong expertise in software design patterns and system architecture.
+Proficiency in cloud computing, microservices, and DevOps practices.
+Experience with programming languages like Java, Python, or C++.
+Excellent problem-solving and leadership skills.
